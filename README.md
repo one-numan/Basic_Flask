@@ -12,14 +12,17 @@
 - Flask is a microframework for creating web applications and supports CRUD.
 
 ## Run Flask
+
 - Install the Flask package using pip.
+  - `pip install flask`  
 
 - To create a web application using Flask:
 
 - Import Flask
+   - `from flask Import Flask`
 
-- Instantiate Flask
-
+- Instantiate Flask 
+  
 - Run the app
 
 - You can render both static and dynamic templates with Flask.
